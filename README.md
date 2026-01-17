@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Girish Rajendra Shetiya
 Currently working at a MNC.<br>Focusing on Python / DRF / Generative AI
 
 
